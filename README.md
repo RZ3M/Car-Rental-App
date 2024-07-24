@@ -17,6 +17,10 @@ This is a cross-platform mobile application, built using the Ionic Framework wit
 - **HTML**
 - **CSS**
 
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/rAv-IjdHAmY/0.jpg)](https://www.youtube.com/watch?v=rAv-IjdHAmY)
+
 ## Installation
 
 1. **Clone the Repository**:
@@ -72,7 +76,3 @@ This is a cross-platform mobile application, built using the Ionic Framework wit
     - Randomly generated reservation number
     - Price
     - Tax
-
-## Video Demo
-
-[![Watch the video](https://img.youtube.com/vi/rAv-IjdHAmY/0.jpg)](https://www.youtube.com/watch?v=rAv-IjdHAmY)
